@@ -1,6 +1,6 @@
 # Monsters Rolodex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a small project that displays a static website with a search feature.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a small project that displays a static website with a search feature as if a monster was saving information about his other monster friends in this virtual Monster Rolodex. View it [here](https://ccreswell97.github.io/monsters-rolodex-project/) - it's hosted with GitHub pages!
 
 ## Available Scripts
 
